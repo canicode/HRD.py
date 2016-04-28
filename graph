@@ -1,0 +1,5 @@
+#Input Star Age
+star_age = input(Age of Cluster - )
+#Take V and B-V for each star at that age
+
+#Graph results
