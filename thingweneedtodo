@@ -3,3 +3,9 @@ star_age = input(Age of Cluster - )
 #Take V and B-V for each star at that age
 
 #Graph results
+plt.figure()
+plt.plot(B_V,V,'r+')
+plt.xlabel('B_V')
+plt.ylabel('V')
+plt.title('B_V vs V at 'star_age)
+plt.show()
